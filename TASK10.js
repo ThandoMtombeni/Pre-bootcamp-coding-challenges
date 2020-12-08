@@ -1,8 +1,9 @@
 //Task 10
-var vowels = ['A','E','I','O','U','a','e','i','o','u' ];
-var vowel_List=[];
 
 function vowel(string){
+    
+    var vowels = ['A','E','I','O','U','a','e','i','o','u' ];
+    var vowel_List=[];
 
     for(i=0; i<string.length; i++){
 
